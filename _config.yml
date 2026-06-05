@@ -13,9 +13,9 @@ title                    : "Christopher Cook"
 title_separator          : "-"
 name                     : &name "Christopher Cook"
 description              : &description "Physics PhD student at UT Austin — cosmology, dark energy, and high-energy astrophysics"
-url                      : https://cdcook7bit.github.io
+url                      : https://ccook7bit.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cdcook7bit/cdcook7bit.github.io"
+repository               : "ccook7bit/ccook7bit.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "cdcook7bit"
+  github           : "ccook7bit"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
