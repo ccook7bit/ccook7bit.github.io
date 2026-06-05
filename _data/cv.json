@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Christopher Cook",
+    "email": "cdcook@smu.edu",
+    "phone": "(972) 955-3045",
+    "website": "https://cdcook7bit.github.io",
+    "summary": "Physics PhD student at the University of Texas at Austin. Research in theoretical cosmology and high-energy astrophysics, with a focus on dark energy and gamma-ray bursts.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "cdcook7bit",
+        "url": "https://github.com/cdcook7bit"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "christopher-cook-180b60212",
+        "url": "https://www.linkedin.com/in/christopher-cook-180b60212/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of New Mexico",
+      "position": "NSF REU Research Fellow",
+      "website": "",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "summary": "Research on late-time dark energy dynamics and cosmological distances with Prof. Cyr-Racine.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Austin",
+      "area": "Ph.D. in Physics",
+      "studyType": "PhD",
+      "startDate": "2026-08",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Southern Methodist University",
+      "area": "B.S. in Physics and Mathematics",
+      "studyType": "BS",
+      "startDate": "2022-08",
+      "endDate": "2026-05",
+      "gpa": "3.979/4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "NSF Graduate Research Fellowship (GRFP) Fellow",
+      "date": "2026",
+      "awarder": "National Science Foundation",
+      "summary": "National fellowship recognizing outstanding graduate students in STEM research."
+    },
+    {
+      "title": "Barry Goldwater Scholar",
+      "date": "2025",
+      "awarder": "Barry Goldwater Scholarship and Excellence in Education Foundation",
+      "summary": "National scholarship recognizing outstanding undergraduates pursuing research careers in STEM."
+    },
+    {
+      "title": "SMU Phi Beta Kappa (Junior Inductee)",
+      "date": "2025",
+      "awarder": "Phi Beta Kappa",
+      "summary": "One of 15 juniors inducted at SMU into the oldest and most prestigious academic honor society in the US."
+    },
+    {
+      "title": "SMU Physics Robert S. Hyer Award",
+      "date": "2025",
+      "awarder": "SMU Department of Physics",
+      "summary": "Awarded to 1 or 2 physics undergraduates based on performance at the highest academic level."
+    },
+    {
+      "title": "SMU Dedman College Scholar",
+      "date": "2022",
+      "awarder": "SMU Dedman College",
+      "summary": "Awarded to 24 students per class in the Dedman College of Humanities and Sciences."
+    },
+    {
+      "title": "SMU Honor Roll",
+      "date": "2022-2026",
+      "awarder": "SMU",
+      "summary": "Maintained cumulative GPA in the top 5% of Dedman College all semesters."
+    },
+    {
+      "title": "SMU Carrie and Edwin Mouzon Mathematics Scholarship",
+      "date": "2022",
+      "awarder": "SMU",
+      "summary": "Given to incoming first-year students with an excellent mathematics background and strong interest in mathematics."
+    },
+    {
+      "title": "SMU John Robert McCaw Endowed Merit Award",
+      "date": "2025",
+      "awarder": "SMU",
+      "summary": "Merit-based award for junior or senior students who have demonstrated excellence in mathematics and participated in community activities."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "C", "C++", "Java", "R", "Matlab", "Mathematica"]
+    },
+    {
+      "name": "Tools & Frameworks",
+      "level": "",
+      "keywords": ["LaTeX", "Git", "Jupyter Notebooks", "RStudio"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Amateur Photography",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "GRB Redshift Classifier to Follow Up High-Redshift GRBs Using Supervised Machine Learning",
+      "publisher": "The Astrophysical Journal Supplement Series",
+      "releaseDate": "2025-03-01",
+      "website": "https://iopscience.iop.org/article/10.3847/1538-4365/adafa9",
+      "summary": "Supervised machine learning classifier to identify high-redshift GRBs for use as cosmological probes."
+    },
+    {
+      "name": "Insights for Early Dark Energy with Big Bang Nucleosynthesis",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-12-01",
+      "website": "https://arxiv.org/abs/2512.11163",
+      "summary": "Using Big Bang Nucleosynthesis as a probe to constrain early dark energy models."
+    },
+    {
+      "name": "Late-time Dark Energy Dynamics and Cosmological Distances",
+      "publisher": "In preparation",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Probing late-time dark energy dynamics through cosmological distance measurements."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Catalog Photometry and Measuring Cosmic Distances with the ROTSE-I δ Scuti's",
+      "event": "Texas Section of the APS",
+      "date": "2023-10-13",
+      "location": "San Angelo State University, TX",
+      "description": ""
+    },
+    {
+      "name": "Constraining Early Dark Energy with Big Bang Nucleosynthesis",
+      "event": "Texas Section of the APS",
+      "date": "2024-10-18",
+      "location": "Southern Methodist University, TX",
+      "description": ""
+    },
+    {
+      "name": "Fireslide Presentation",
+      "event": "Texas TACOS",
+      "date": "2024-10-28",
+      "location": "University of Texas at Austin, TX",
+      "description": ""
+    },
+    {
+      "name": "Constraining Early Dark Energy with Big Bang Nucleosynthesis",
+      "event": "SMU Hamilton Scholars Research Presentation",
+      "date": "2025-04-22",
+      "location": "Southern Methodist University, TX",
+      "description": ""
+    },
+    {
+      "name": "Late-time Dark Energy Dynamics and Cosmological Distances",
+      "event": "University of New Mexico NSF REU Poster Presentations",
+      "date": "2025-08-01",
+      "location": "University of New Mexico, NM",
+      "description": ""
+    },
+    {
+      "name": "Fireslide Presentation",
+      "event": "Texas TACOS",
+      "date": "2025-10-13",
+      "location": "Sam Houston State University, TX",
+      "description": ""
+    }
+  ],
+  "teaching": [],
+  "portfolio": []
+}
