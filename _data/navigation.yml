@@ -7,14 +7,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "Photography"
     url: /photography/
-
-  - title: "Blog"
-    url: /year-archive/
 
   - title: "CV"
     url: /cv/
